@@ -301,6 +301,13 @@ $(function() {
       searchname: 'q',
       color: '#317EE7',
       placeholder: '谷歌学术...'
+    }, {
+      name: 'wanfang',
+      icon: 'https://cdn.jsdelivr.net/gh/lukeaust/blog/index/imgs/wanfang-xs.png',
+      searchlink: 'http://www.wanfangdata.com.cn/search/searchList.do',
+      searchname: 'searchWord',
+      color: '#317EE7',
+      placeholder: '万方学术...'
     }]
   }
   for (var i = 0; i < search.data.length; i++) { //添加搜索按钮
