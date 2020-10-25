@@ -79,45 +79,17 @@ $(function() {
       link: 'https://lukeaust.gitee.io',
       icon: 'https://cdn.jsdelivr.net/gh/lukeaust/blog/index/imgs/book.png',
     }, {
-      name: '吾爱破解',
-      link: 'https://www.52pojie.cn/',
-      icon: 'https://cdn.jsdelivr.net/gh/lukeaust/blog/index/imgs/pojie.png',
+      name: 'Mendeley',
+      link: 'https://www.mendeley.com/newsfeed',
+      icon: 'https://cdn.jsdelivr.net/gh/lukeaust/blog/index/imgs/meisi.png',
     }, {
-      name: '今日热榜',
-      link: 'https://tophub.today/',
-      icon: 'https://cdn.jsdelivr.net/gh/lukeaust/blog/index/imgs/headline.png',
-    }, {
-      name: '视频下载',
-      link: 'https://weibo.iiilab.com/',
-      icon: 'https://cdn.jsdelivr.net/gh/lukeaust/blog/index/imgs/download.png',
-    }, {
-      name: '图片放大',
-      link: 'https://bigjpg.com/',
-      icon: 'https://cdn.jsdelivr.net/gh/lukeaust/blog/index/imgs/fangda.png',
-    }, {
-      name: '临时邮箱',
-      link: 'https://www.linshiyouxiang.net',
-      icon: 'https://cdn.jsdelivr.net/gh/lukeaust/blog/index/imgs/mail.png',
-    }, {
-      name: 'unsplash',
-      link: 'https://unsplash.com/',
-      icon: 'https://cdn.jsdelivr.net/gh/lukeaust/blog/index/imgs/shetu.png',
-    }, {
-      name: '懒盘搜索',
-      link: 'https://www.lzpan.com/',
-      icon: 'https://cdn.jsdelivr.net/gh/lukeaust/blog/index/imgs/cloud.png',
-    }, {
-      name: '脚本之家',
-      link: 'https://m.jb51.net/',
-      icon: 'https://cdn.jsdelivr.net/gh/lukeaust/blog/index/imgs/jiaoben.png',
+      name: 'ResearchGate',
+      link: 'https://www.researchgate.net/',
+      icon: 'https://cdn.jsdelivr.net/gh/lukeaust/blog/index/imgs/r.png',
     }, {
       name: '博客园',
       link: 'https://www.cnblogs.com/',
       icon: 'https://cdn.jsdelivr.net/gh/lukeaust/blog/index/imgs/blog.png',
-    }, {
-      name: 'SciKit',
-      link: 'https://scikit-learn.org/stable/index.html',
-      icon: 'https://cdn.jsdelivr.net/gh/lukeaust/blog/index/imgs/code.png',
     }, {
       name: '南瓜书',
       link: 'https://datawhalechina.github.io/pumpkin-book/',
@@ -139,9 +111,41 @@ $(function() {
       link: 'https://machinelearningmastery.com/start-here/',
       icon: 'https://cdn.jsdelivr.net/gh/lukeaust/blog/index/imgs/dl.png',
     }, {
-      name: '乐扣题库',
-      link: 'https://github.com/Ma63d/leetcode-spider',
-      icon: 'https://cdn.jsdelivr.net/gh/lukeaust/blog/index/imgs/meisi.png',
+      name: '脚本之家',
+      link: 'https://m.jb51.net/',
+      icon: 'https://cdn.jsdelivr.net/gh/lukeaust/blog/index/imgs/jiaoben.png',
+    }, {
+      name: 'SciKit',
+      link: 'https://scikit-learn.org/stable/index.html',
+      icon: 'https://cdn.jsdelivr.net/gh/lukeaust/blog/index/imgs/code.png',
+    }, {
+      name: '吾爱破解',
+      link: 'https://www.52pojie.cn/',
+      icon: 'https://cdn.jsdelivr.net/gh/lukeaust/blog/index/imgs/pojie.png',
+    }, {
+      name: '视频下载',
+      link: 'https://weibo.iiilab.com/',
+      icon: 'https://cdn.jsdelivr.net/gh/lukeaust/blog/index/imgs/download.png',
+    }, {
+      name: '图片放大',
+      link: 'https://bigjpg.com/',
+      icon: 'https://cdn.jsdelivr.net/gh/lukeaust/blog/index/imgs/fangda.png',
+    }, {
+      name: '临时邮箱',
+      link: 'https://www.linshiyouxiang.net',
+      icon: 'https://cdn.jsdelivr.net/gh/lukeaust/blog/index/imgs/mail.png',
+    }, {
+      name: 'unsplash',
+      link: 'https://unsplash.com/',
+      icon: 'https://cdn.jsdelivr.net/gh/lukeaust/blog/index/imgs/shetu.png',
+    }, {
+      name: '懒盘搜索',
+      link: 'https://www.lzpan.com/',
+      icon: 'https://cdn.jsdelivr.net/gh/lukeaust/blog/index/imgs/cloud.png',
+    }, {
+      name: '今日热榜',
+      link: 'https://tophub.today/',
+      icon: 'https://cdn.jsdelivr.net/gh/lukeaust/blog/index/imgs/headline.png',
     }]					
   }
   for (var i = 0; i < bookmark.data.length; i++) {
