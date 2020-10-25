@@ -75,8 +75,8 @@ function rgb2hex(rgb) {
 $(function() {
   var bookmark = {
     data: [{
-      name: '鸠摩',
-      link: 'https://www.jiumodiary.com/',
+      name: 'Hexo',
+      link: 'https://lukeaust.gitee.io',
       icon: 'https://cdn.jsdelivr.net/gh/lukeaust/blog/index/imgs/book.png',
     }, {
       name: '吾爱破解',
